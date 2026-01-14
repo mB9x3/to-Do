@@ -50,6 +50,10 @@ body {
   margin-left: 26px;
 
 }
+.incomplete {
+  color: rgba(255, 0, 0, 0.596) !important;
+  text-decoration: line-through;
+}
 
 .h1-p {
   display: flex;
